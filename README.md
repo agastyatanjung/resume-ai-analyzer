@@ -1,10 +1,10 @@
-# AI Resume Analyzer 🚀
+# AI Resume Analyzer 
 
 Sebuah platform web modern dan premium yang dirancang untuk membantu pengguna mengoptimalkan dan mengembangkan kualitas resume/CV mereka menggunakan kecerdasan buatan (AI). Platform ini membedah struktur CV, mengukur skor keselarasan dengan lowongan kerja (ATS Score), serta memberikan rekomendasi perbaikan secara instan.
 
 ---
 
-## ✨ Fitur Utama
+## Fitur Utama
 
 * **AI Resume & ATS Checker**: Membedah struktur kalimat, tata bahasa, dan keterbacaan sistem rekrutmen otomatis.
 * **Skor Kecocokan Kerja**: Mengukur persentase keselarasan antara resume pengguna dengan kriteria lowongan (*Job Description*) secara *real-time*.
@@ -14,7 +14,7 @@ Sebuah platform web modern dan premium yang dirancang untuk membantu pengguna me
 
 ---
 
-## 🛠️ Tech Stack yang Digunakan
+## Tech Stack yang Digunakan
 
 Aplikasi ini dibangun menggunakan teknologi mutakhir berikut:
 
@@ -26,7 +26,7 @@ Aplikasi ini dibangun menggunakan teknologi mutakhir berikut:
 
 ---
 
-## 📁 Struktur Dokumen Utama (Komponen Kunci)
+## Struktur Dokumen Utama (Komponen Kunci)
 
 Berikut adalah beberapa komponen penting yang mengatur logika tampilan dan interaksi di proyek ini:
 
@@ -37,7 +37,10 @@ Berikut adalah beberapa komponen penting yang mengatur logika tampilan dan inter
 
 ---
 
-## 🚀 Cara Menjalankan Proyek secara Lokal
+## Cara Menjalankan Proyek secara Lokal
+
+
+
 
 Ikuti langkah-langkah di bawah ini untuk memasang proyek ini di komputer Anda:
 
